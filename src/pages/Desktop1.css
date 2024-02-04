@@ -1,0 +1,146 @@
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.desktop-2-child {
+  position: absolute;
+  top: 799px;
+  left: 188px;
+  background-color: var(--color-khaki);
+  width: 1065px;
+  height: 625px;
+}
+.desktop-2-child1,
+.desktop-2-inner,
+.desktop-2-item,
+.rectangle-div {
+  position: absolute;
+  top: 1515px;
+  left: 188px;
+  background-color: #98c1eb;
+  width: 1065px;
+  height: 625px;
+}
+.desktop-2-child1,
+.desktop-2-inner,
+.rectangle-div {
+  top: 2255px;
+  background-color: #98ebb1;
+}
+.desktop-2-child1,
+.rectangle-div {
+  top: 2987px;
+  background-color: #757780;
+}
+.desktop-2-child1 {
+  top: 3717px;
+  background-color: #eb98b9;
+}
+.tailored-experiences {
+  font-weight: 800;
+}
+.span {
+  color: var(--color-black);
+}
+.we-understand-that-every-trave {
+  color: var(--color-gray-300);
+}
+.global-destinations-from-container,
+.tailored-experiences-we-container {
+  position: absolute;
+  top: 862px;
+  left: 315px;
+  display: inline-block;
+  width: 811px;
+  height: 498px;
+}
+.global-destinations-from-container {
+  top: 1578px;
+}
+.adventure-awaits-for-container,
+.exclusive-events-elevate-container,
+.unmatched-hospitality-immerse-container {
+  position: absolute;
+  top: 2318px;
+  left: 315px;
+  display: inline-block;
+  width: 811px;
+  height: 498px;
+}
+.adventure-awaits-for-container,
+.exclusive-events-elevate-container {
+  top: 3050px;
+}
+.exclusive-events-elevate-container {
+  top: 3780px;
+}
+.image-8-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 736px;
+  object-fit: cover;
+}
+.what-do-we {
+  position: absolute;
+  top: 33px;
+  left: 187px;
+  font-size: var(--font-size-29xl);
+  color: #ff2f06;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1065px;
+  height: 54px;
+}
+.sosare-travels1 {
+  position: absolute;
+  top: 151.7px;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.image-4-icon1 {
+  position: absolute;
+  top: 0;
+  left: 14.2px;
+  border-radius: 113.25px;
+  width: 151.7px;
+  height: 151.7px;
+  object-fit: cover;
+}
+.icon1 {
+  position: absolute;
+  top: 92px;
+  left: 85px;
+  width: 180px;
+  height: 189.7px;
+  opacity: 0;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-5xl-3);
+  color: var(--color-gainsboro);
+  font-family: var(--font-saira);
+}
+.desktop-2.animate,
+.icon1.animate {
+  animation: 1s ease 0s 1 normal forwards slide-in-top;
+}
+.desktop-2 {
+  width: 100%;
+  height: 4444px;
+  position: relative;
+  background-color: #083b64;
+  overflow: hidden;
+  opacity: 0;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inknut-antiqua);
+}

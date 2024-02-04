@@ -1,0 +1,417 @@
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.image-5-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.sosare-travels4 {
+  position: absolute;
+  top: 151.7px;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.image-4-icon4 {
+  position: absolute;
+  top: 0;
+  left: 14.2px;
+  border-radius: 113.25px;
+  width: 151.7px;
+  height: 151.7px;
+  object-fit: cover;
+}
+.icon4 {
+  position: absolute;
+  top: 92px;
+  left: 85px;
+  width: 180px;
+  height: 189.7px;
+  opacity: 0;
+  color: var(--color-gainsboro);
+  font-family: var(--font-saira);
+}
+.antelope-canyon1.animate,
+.component-1.animate,
+.icon4.animate,
+.image-7.animate,
+.navbar.animate,
+.padang-noah.animate {
+  animation: 1s ease 0s 1 normal forwards slide-in-top;
+}
+.navbar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 36px;
+  background-color: #233639;
+  width: 957px;
+  height: 57px;
+}
+.about-us1,
+.our-services1,
+.what-we-do {
+  position: absolute;
+  top: 10px;
+  left: 29.1px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 149.3px;
+  cursor: pointer;
+}
+.about-us1,
+.our-services1 {
+  left: 419px;
+  width: 151.3px;
+}
+.about-us1 {
+  left: 811px;
+  width: 109.2px;
+}
+.navbar {
+  position: absolute;
+  top: 140px;
+  left: 361px;
+  width: 957px;
+  height: 57px;
+  opacity: 0;
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.antelope-canyon-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.antelope-canyon-item {
+  position: absolute;
+  height: 13.73%;
+  width: 23.97%;
+  top: 54.45%;
+  right: 37.97%;
+  bottom: 31.83%;
+  left: 38.07%;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+}
+.b {
+  height: 5.71%;
+  width: 4.98%;
+  top: 58.56%;
+  left: 47.49%;
+}
+.antelope-canyon2,
+.b,
+.united-states {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.antelope-canyon2 {
+  height: 11.44%;
+  top: 68.16%;
+  left: calc(50% - 61.5px);
+  width: 122px;
+}
+.united-states {
+  top: 82.14%;
+  left: calc(50% - 70.5px);
+  font-size: var(--font-size-9xl-9);
+  font-weight: 500;
+  color: var(--color-gray-200);
+  width: 140.5px;
+}
+.antelope-canyon1 {
+  position: absolute;
+  top: 336px;
+  left: calc(50% - 692px);
+  width: 295px;
+  height: 515px;
+  opacity: 0;
+  text-align: center;
+  font-size: var(--font-size-10xl-6);
+  color: var(--color-white);
+}
+.padang-noah-item {
+  position: absolute;
+  height: 13.73%;
+  width: 23.98%;
+  top: 54.12%;
+  right: 38.37%;
+  bottom: 32.15%;
+  left: 37.66%;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+}
+.b1,
+.nigeria,
+.padang-noah1 {
+  position: absolute;
+  top: 58.23%;
+  left: 47.24%;
+  text-transform: capitalize;
+}
+.nigeria,
+.padang-noah1 {
+  top: 79.21%;
+  left: 25.67%;
+}
+.nigeria {
+  top: 85.69%;
+  left: 36.98%;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.padang-noah {
+  position: absolute;
+  top: 336px;
+  left: calc(50% - 330px);
+  width: 295.3px;
+  height: 515.7px;
+  opacity: 0;
+  color: var(--color-white);
+}
+.image-7-icon {
+  position: absolute;
+  height: 100%;
+  width: 101.76%;
+  top: 0;
+  right: 0.17%;
+  bottom: 0;
+  left: -1.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-7-child {
+  position: absolute;
+  height: 13.75%;
+  width: 27.49%;
+  top: 57.09%;
+  right: 35.22%;
+  bottom: 29.17%;
+  left: 37.29%;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+}
+.b2,
+.nigeria1,
+.padang-noah2 {
+  position: absolute;
+  text-transform: capitalize;
+}
+.b2 {
+  top: 61.2%;
+  left: 48.27%;
+  color: var(--color-white);
+}
+.nigeria1,
+.padang-noah2 {
+  top: 78.45%;
+  left: 22.14%;
+}
+.nigeria1 {
+  top: 84.85%;
+  left: 35.08%;
+  font-weight: 500;
+}
+.image-7 {
+  position: absolute;
+  top: 337px;
+  left: 752px;
+  width: 295px;
+  height: 515px;
+  overflow: hidden;
+  opacity: 0;
+}
+.component-1-child,
+.group-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.component-1-child {
+  top: 2.14%;
+  right: -1.91%;
+  bottom: -2.14%;
+  left: 1.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-child {
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+}
+.div {
+  position: absolute;
+  top: 21.43%;
+  left: 35.71%;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.ellipse-parent {
+  position: absolute;
+  height: 13.59%;
+  width: 26.72%;
+  top: 50.29%;
+  right: 39.31%;
+  bottom: 36.12%;
+  left: 33.97%;
+}
+.hang-son-doong,
+.vietnam {
+  position: absolute;
+  text-transform: capitalize;
+}
+.hang-son-doong {
+  top: -155.17%;
+  left: -45.56%;
+  display: none;
+}
+.vietnam {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.hang-son-doong-parent {
+  position: absolute;
+  height: 5.63%;
+  width: 34.35%;
+  top: 81.55%;
+  right: 32.82%;
+  bottom: 12.82%;
+  left: 32.82%;
+  font-size: var(--font-size-5xl-3);
+  color: var(--color-black);
+}
+.component-1 {
+  position: absolute;
+  top: 337px;
+  left: 1114px;
+  width: 262px;
+  height: 515px;
+  opacity: 0;
+  font-size: var(--font-size-17xl-4);
+  color: var(--color-white);
+}
+.main-page-child {
+  top: 921px;
+  left: 28px;
+  background-color: #9a7048;
+  width: 295px;
+  height: 59px;
+}
+.get-itinerary,
+.main-page-child,
+.main-page-item {
+  position: absolute;
+  cursor: pointer;
+}
+.get-itinerary {
+  top: 928px;
+  left: 28px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  text-align: center;
+  display: inline-block;
+  width: 268px;
+  height: 27px;
+}
+.main-page-item {
+  top: 921px;
+  left: 390px;
+  background-color: #febf55;
+  width: 295px;
+  height: 59px;
+}
+.get-itinerary1 {
+  position: absolute;
+  top: 928px;
+  left: 401px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  text-align: center;
+  display: inline-block;
+  width: 268px;
+  height: 27px;
+  cursor: pointer;
+}
+.main-page-inner {
+  position: absolute;
+  top: 921px;
+  left: 752px;
+  background-color: #80c9d8;
+  width: 295px;
+  height: 59px;
+  cursor: pointer;
+}
+.get-itinerary2 {
+  position: absolute;
+  top: 928px;
+  left: 763px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  text-align: center;
+  display: inline-block;
+  width: 268px;
+  height: 27px;
+  cursor: pointer;
+}
+.main-page-child1 {
+  position: absolute;
+  top: 921px;
+  left: 1091px;
+  background-color: #023578;
+  width: 295px;
+  height: 59px;
+  cursor: pointer;
+}
+.get-itinerary3 {
+  position: absolute;
+  top: 928px;
+  left: 1102px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  text-align: center;
+  display: inline-block;
+  width: 268px;
+  height: 27px;
+  cursor: pointer;
+}
+.main-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl-3);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

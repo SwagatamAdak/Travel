@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@400;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Saira:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-saira: Saira;
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-lato: Lato;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-5xl-3: 24.3px;
+  --font-size-13xl: 32px;
+  --font-size-29xl: 48px;
+  --font-size-17xl: 36px;
+  --font-size-17xl-4: 36.4px;
+  --font-size-9xl-9: 28.9px;
+  --font-size-10xl-6: 29.6px;
+
+  /* Colors */
+  --color-gainsboro: #e5e5e5;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #020202;
+  --color-gray-200: rgba(255, 255, 255, 0.7);
+  --color-gray-300: rgba(26, 3, 3, 0.83);
+  --color-khaki: #e2eb98;
+  --color-steelblue: #357b95;
+  --color-yellow: #ddf92f;
+  --color-orchid: #b1599b;
+
+  /* Border radiuses */
+  --br-94xl-3: 113.3px;
+  --br-41xl: 60px;
+}

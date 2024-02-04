@@ -1,0 +1,104 @@
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.china-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 822px;
+  object-fit: cover;
+}
+.sosare-travels2 {
+  position: absolute;
+  top: 151.7px;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.image-4-icon2 {
+  position: absolute;
+  top: 0;
+  left: 14.2px;
+  border-radius: 113.25px;
+  width: 151.7px;
+  height: 151.7px;
+  object-fit: cover;
+}
+.icon2 {
+  position: absolute;
+  top: 92px;
+  left: 85px;
+  width: 180px;
+  height: 189.7px;
+  opacity: 0;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-5xl-3);
+  color: var(--color-gainsboro);
+  font-family: var(--font-saira);
+}
+.icon2.animate {
+  animation: 1s ease 0s 1 normal forwards slide-in-top;
+}
+.desktop-3-child,
+.desktop-3-item {
+  position: absolute;
+  top: 909px;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-khaki);
+  width: 525px;
+  height: 114px;
+}
+.desktop-3-child {
+  left: 98px;
+  cursor: pointer;
+}
+.desktop-3-item {
+  left: 818px;
+}
+.create-itinerary {
+  top: calc(50% + 286.5px);
+  left: calc(50% - 568px);
+  width: 418px;
+  height: 83px;
+  cursor: pointer;
+}
+.create-itinerary,
+.join-group,
+.our-services {
+  position: absolute;
+  display: inline-block;
+}
+.join-group {
+  top: calc(50% + 286.5px);
+  left: calc(50% + 152px);
+  width: 418px;
+  height: 83px;
+}
+.our-services {
+  top: 21px;
+  left: 188px;
+  text-transform: capitalize;
+  white-space: pre-wrap;
+  width: 1065px;
+  height: 130px;
+}
+.desktop-3 {
+  width: 100%;
+  position: relative;
+  background-color: #fca93c;
+  height: 1275px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

@@ -1,0 +1,170 @@
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.image-22-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.sosare-travels5 {
+  position: absolute;
+  top: 151.7px;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.image-4-icon5 {
+  position: absolute;
+  top: 0;
+  left: 14.2px;
+  border-radius: 113.25px;
+  width: 151.7px;
+  height: 151.7px;
+  object-fit: cover;
+}
+.icon5 {
+  position: absolute;
+  top: 92px;
+  left: 85px;
+  width: 180px;
+  height: 189.7px;
+  opacity: 0;
+  cursor: pointer;
+  text-align: left;
+  color: var(--color-gainsboro);
+  font-family: var(--font-saira);
+}
+.icon5.animate {
+  animation: 1s ease 0s 1 normal forwards slide-in-top;
+}
+.greece,
+.santorini {
+  position: absolute;
+  top: 52px;
+  left: 188px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.93em;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 1065px;
+  height: 68px;
+}
+.santorini {
+  top: 168px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 0.34em;
+  height: 78px;
+}
+.image-23-icon,
+.image-24-icon,
+.image-25-icon {
+  position: absolute;
+  top: 1107px;
+  left: 389px;
+  width: 662px;
+  height: 144px;
+  object-fit: cover;
+}
+.image-24-icon,
+.image-25-icon {
+  top: 1334px;
+  left: 95px;
+  width: 1249px;
+  height: 440px;
+}
+.image-25-icon {
+  top: 1857px;
+  left: 389px;
+  width: 664px;
+  height: 142px;
+}
+.image-26-icon,
+.image-27-icon,
+.image-28-icon {
+  position: absolute;
+  top: 2082px;
+  left: 60px;
+  width: 1321px;
+  height: 461px;
+  object-fit: cover;
+}
+.image-27-icon,
+.image-28-icon {
+  top: 2626px;
+  left: 381px;
+  width: 679px;
+  height: 139px;
+}
+.image-28-icon {
+  top: 2848px;
+  left: 32px;
+  width: 1376px;
+  height: 479px;
+}
+.image-29-icon,
+.image-30-icon,
+.image-31-icon {
+  position: absolute;
+  top: 3410px;
+  left: 378px;
+  width: 683px;
+  height: 140px;
+  object-fit: cover;
+}
+.image-30-icon,
+.image-31-icon {
+  top: 3633px;
+  left: 52px;
+  width: 1336px;
+  height: 407px;
+}
+.image-31-icon {
+  top: 4123px;
+  left: 375px;
+  width: 686px;
+  height: 138px;
+}
+.image-32-icon,
+.image-33-icon,
+.image-34-icon {
+  position: absolute;
+  top: 4344px;
+  left: 80px;
+  width: 1279px;
+  height: 387px;
+  object-fit: cover;
+}
+.image-33-icon,
+.image-34-icon {
+  top: 4814px;
+  left: 375px;
+  width: 689px;
+  height: 140px;
+}
+.image-34-icon {
+  top: 5070px;
+  left: 80px;
+  width: 1279px;
+  height: 446px;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 5594px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl-3);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

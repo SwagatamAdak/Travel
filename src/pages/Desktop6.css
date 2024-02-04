@@ -1,0 +1,172 @@
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.image-49-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 900px;
+  object-fit: cover;
+}
+.sosare-travels7 {
+  position: absolute;
+  top: 151.7px;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.image-4-icon7 {
+  position: absolute;
+  top: 0;
+  left: 14.2px;
+  border-radius: 113.25px;
+  width: 151.7px;
+  height: 151.7px;
+  object-fit: cover;
+}
+.icon7 {
+  position: absolute;
+  top: 92px;
+  left: 85px;
+  width: 180px;
+  height: 189.7px;
+  opacity: 0;
+  cursor: pointer;
+  text-align: left;
+  color: var(--color-gainsboro);
+  font-family: var(--font-saira);
+}
+.icon7.animate {
+  animation: 1s ease 0s 1 normal forwards slide-in-top;
+}
+.halong-bay,
+.vietnam1 {
+  position: absolute;
+  top: 38px;
+  left: 187px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 1.08em;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 1065px;
+  height: 84px;
+}
+.halong-bay {
+  top: 136px;
+  left: 188px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 0.47em;
+  height: 76px;
+}
+.image-52-icon,
+.image-53-icon,
+.image-54-icon {
+  position: absolute;
+  top: 993px;
+  left: 388px;
+  width: 664px;
+  height: 139px;
+  object-fit: cover;
+}
+.image-53-icon,
+.image-54-icon {
+  top: 1225px;
+  left: 160px;
+  width: 1120px;
+  height: 309px;
+}
+.image-54-icon {
+  top: 1627px;
+  left: 373px;
+  width: 694px;
+  height: 142px;
+}
+.image-55-icon,
+.image-56-icon,
+.image-57-icon {
+  position: absolute;
+  top: 1862px;
+  left: 110px;
+  width: 1220px;
+  height: 332px;
+  object-fit: cover;
+}
+.image-56-icon,
+.image-57-icon {
+  top: 2287px;
+  left: 370px;
+  width: 699px;
+  height: 140px;
+}
+.image-57-icon {
+  top: 2520px;
+  left: 85px;
+  width: 1270px;
+  height: 350px;
+}
+.image-58-icon,
+.image-59-icon,
+.image-60-icon {
+  position: absolute;
+  top: 2963px;
+  left: 378px;
+  width: 683px;
+  height: 142px;
+  object-fit: cover;
+}
+.image-59-icon,
+.image-60-icon {
+  top: 3198px;
+  left: 105px;
+  width: 1230px;
+  height: 346px;
+}
+.image-60-icon {
+  top: 3637px;
+  left: 377px;
+  width: 686px;
+  height: 137px;
+}
+.image-61-icon,
+.image-62-icon,
+.image-63-icon {
+  position: absolute;
+  top: 3867px;
+  left: 134px;
+  width: 1172px;
+  height: 311px;
+  object-fit: cover;
+}
+.image-62-icon,
+.image-63-icon {
+  top: 4271px;
+  left: 389px;
+  width: 662px;
+  height: 142px;
+}
+.image-63-icon {
+  top: 4506px;
+  left: 114px;
+  width: 1212px;
+  height: 359px;
+}
+.desktop-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4919px;
+  overflow: hidden;
+  mix-blend-mode: normal;
+  text-align: center;
+  font-size: var(--font-size-5xl-3);
+  color: var(--color-orchid);
+  font-family: var(--font-lato);
+}

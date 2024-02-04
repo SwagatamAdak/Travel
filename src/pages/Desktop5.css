@@ -1,0 +1,169 @@
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.image-36-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1430.2px;
+  height: 1024px;
+  object-fit: cover;
+}
+.sosare-travels6 {
+  position: absolute;
+  top: 151.7px;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.image-4-icon6 {
+  position: absolute;
+  top: 0;
+  left: 14.2px;
+  border-radius: 113.25px;
+  width: 151.7px;
+  height: 151.7px;
+  object-fit: cover;
+}
+.icon6 {
+  position: absolute;
+  top: 92px;
+  left: 85px;
+  width: 180px;
+  height: 189.7px;
+  opacity: 0;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-5xl-3);
+  color: var(--color-gainsboro);
+  font-family: var(--font-saira);
+}
+.icon6.animate {
+  animation: 1s ease 0s 1 normal forwards slide-in-top;
+}
+.australia,
+.sydney {
+  position: absolute;
+  top: 40px;
+  left: 182px;
+  letter-spacing: 0.78em;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 1065px;
+  height: 81px;
+}
+.sydney {
+  top: 121px;
+  letter-spacing: 0.47em;
+  height: 60px;
+}
+.image-37-icon,
+.image-38-icon,
+.image-39-icon {
+  position: absolute;
+  top: 1134px;
+  left: 385px;
+  width: 669px;
+  height: 143px;
+  object-fit: cover;
+}
+.image-38-icon,
+.image-39-icon {
+  top: 1387px;
+  left: 68px;
+  width: 1303px;
+  height: 312px;
+}
+.image-39-icon {
+  top: 1809px;
+  left: 385px;
+  width: 665px;
+  height: 144px;
+}
+.image-40-icon,
+.image-41-icon,
+.image-42-icon {
+  position: absolute;
+  top: 2063px;
+  left: 133px;
+  width: 1174px;
+  height: 260px;
+  object-fit: cover;
+}
+.image-41-icon,
+.image-42-icon {
+  top: 2433px;
+  left: 373px;
+  width: 693px;
+  height: 136px;
+}
+.image-42-icon {
+  top: 2679px;
+  left: 135px;
+  width: 1170px;
+  height: 244px;
+}
+.image-43-icon,
+.image-44-icon,
+.image-45-icon {
+  position: absolute;
+  top: 3033px;
+  left: 378px;
+  width: 688px;
+  height: 138px;
+  object-fit: cover;
+}
+.image-44-icon,
+.image-45-icon {
+  top: 3281px;
+  left: 120px;
+  width: 1199px;
+  height: 272px;
+}
+.image-45-icon {
+  top: 3663px;
+  left: 374px;
+  width: 692px;
+  height: 159px;
+}
+.image-46-icon,
+.image-47-icon,
+.image-48-icon {
+  position: absolute;
+  top: 3932px;
+  left: 98px;
+  width: 1243px;
+  height: 298px;
+  object-fit: cover;
+}
+.image-47-icon,
+.image-48-icon {
+  top: 4340px;
+  left: 374px;
+  width: 692px;
+  height: 141px;
+}
+.image-48-icon {
+  top: 4591px;
+  left: 91px;
+  width: 1258px;
+  height: 282px;
+}
+.desktop-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4945px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-yellow);
+  font-family: var(--font-lato);
+}
